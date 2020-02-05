@@ -1,0 +1,7 @@
+2020-02-01
+1.커넥션풀 생성
+WEB-INF폴더 밑에 lib에 tomcat-dbcp.jar파일 추가
+jdbc를위해 ojdbc6.jar파일추가
+ㅁweb.xml에 ref 추가
+ㅁMETA-INF폴더 밑에 context.xml에 resource코드 추가
+

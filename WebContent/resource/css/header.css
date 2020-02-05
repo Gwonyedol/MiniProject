@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.nav {
+	display: flex;
+	background-color: #7f61bd;
+	height:100px;
+
+}
+
+.logo {
+	color:white;
+	font-size: 30px;
+}
+
+.login {
+	margin-left: auto;
+}
+
+.register {
+	margin-left: 0;
+}
