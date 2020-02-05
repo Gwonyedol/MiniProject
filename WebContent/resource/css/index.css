@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.search-form-container {
+	display:flex;
+}
+
+.search-form {
+	margin:50px auto;
+}
